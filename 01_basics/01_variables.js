@@ -3,6 +3,10 @@ let accountEmail = "hitesh@gmail.com"
 var accountPasswords = "12345"
 accountcity = "Mumbai"
 
+// let vs var
+var a = 10;
+var a =20;
+
 
 let accountstate;
 // accountId=2 //not allowed
